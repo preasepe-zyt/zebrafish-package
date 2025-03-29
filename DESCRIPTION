@@ -30,9 +30,7 @@ Imports:
     stringr,
     R.utils,
     org.Dr.eg.db,
-    DOSE,
-    stringr
-    pathview
+    DOSE
 Depends: 
     R (>= 3.5),
     tidyverse
